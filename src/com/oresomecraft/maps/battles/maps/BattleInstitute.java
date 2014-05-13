@@ -34,7 +34,7 @@ public class BattleInstitute extends BattleMap implements Listener {
 
     String name = "battleinstitute";
     String fullName = "The Battle Institute";
-    String[] creators = {"__R3 ";
+    String[] creators = {""__R3", ";
     Gamemode[] modes = {Gamemode.LTS};
 
     public void readyTDMSpawns() {
